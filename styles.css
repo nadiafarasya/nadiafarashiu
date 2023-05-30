@@ -1,0 +1,140 @@
+/* Place your CSS styles in this file */
+* {
+    text-decoration: none;
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2023-05-26\ at\ 13.17.16.jpeg);
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color: white;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+h4 {  font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;} 
+
+h5 {  font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: x-large;} 
+
+h6 {  font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;} 
+
+#h7 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: x-large;}
+
+#p2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;
+}
+
+#p3 { font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;
+
+}
+#p4 {font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;}
+
+#p5 {font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;}
+
+img {
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+span {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: deeppink;
+}
+
+header {
+    color: #fff;
+    border-bottom: 5px solid black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: pink;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: large;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+
+main {
+    padding: 20px;
+}
+
+.gambarlogo {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.gambarkelompokkita {  width: 900;
+    display: block;
+    margin: auto;}
+
+.gambardiri  {  width: 900;
+    display: block;
+    margin: auto;}
+.design {width: 900;
+    display: block;
+    margin: auto;}
